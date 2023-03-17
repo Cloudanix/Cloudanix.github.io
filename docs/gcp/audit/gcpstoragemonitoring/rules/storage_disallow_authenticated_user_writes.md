@@ -1,0 +1,20 @@
+---
+slug: storage_disallow_authenticated_user_writes
+title: Buckets Should Not Allow All Authenticated Users to Write
+sidebar_label: Buckets Should Not Allow All Authenticated Users to Write
+---
+> [Back](../../gcpstoragemonitoring)
+
+### More Info:
+Ensure that cloud Storage buckets do not allow All Authenticated Users to Write ("allAuthenticatedUsers" must not have "WRITER" roles)
+
+### Risk Level
+High
+
+### Address
+Security
+
+### Compliance Standards
+PCIDSS, APRA, MAS, NIST
+
+### Additional Reading:

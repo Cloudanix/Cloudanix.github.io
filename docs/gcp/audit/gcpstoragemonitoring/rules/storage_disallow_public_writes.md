@@ -1,0 +1,20 @@
+---
+slug: storage_disallow_public_writes
+title: Buckets Should Not Allow All Users to Write
+sidebar_label: Buckets Should Not Allow All Users to Write
+---
+> [Back](../../gcpstoragemonitoring)
+
+### More Info:
+Ensure that cloud Storage buckets do not allow All Users to Write ("allUsers" must not have "WRITER" roles)
+
+### Risk Level
+High
+
+### Address
+Security
+
+### Compliance Standards
+PCIDSS, APRA, MAS, NIST
+
+### Additional Reading:
