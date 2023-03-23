@@ -6,6 +6,7 @@
  */
 
 module.exports = {
+  name: 'sidebarfile',
   sidebar: {
     'Getting Started': ['home'],
     AWS: [
