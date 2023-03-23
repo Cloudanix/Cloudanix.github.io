@@ -21,7 +21,7 @@ const features = [
     imageUrl: 'img/cwpp-illustration.svg',
     description: (
       <>
-        Single window into all your cloud workloads.
+        Single window into all your cloud workloads like Virtual Machines, Containers and Serverless.
       </>
     ),
   },
