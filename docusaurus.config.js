@@ -1,6 +1,5 @@
 module.exports = {
   title: 'Cloudanix Docs',
-  description: 'cloudanix documentation',
   tagline: '',
   url: 'https://docs.cloudanix.com',
   baseUrl: '/',
